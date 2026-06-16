@@ -35,5 +35,4 @@ class Order(Base):
 
     total_amount = Column(
         Float,
-        default=0
-    )
+        default=0)
