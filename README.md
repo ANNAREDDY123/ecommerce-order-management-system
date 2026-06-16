@@ -62,11 +62,7 @@ A FastAPI-based backend application for managing customers, products, orders, an
 * One shipment per order
 * Unique tracking number
 
-## Run Project
 
-pip install -r requirements.txt
-
-uvicorn main:app --reload
 
 ## Swagger
 
