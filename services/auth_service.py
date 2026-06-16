@@ -19,5 +19,4 @@ def create_access_token(data: dict):
     return jwt.encode(
         to_encode,
         SECRET_KEY,
-        algorithm=ALGORITHM
-    )
+        algorithm=ALGORITHM)
