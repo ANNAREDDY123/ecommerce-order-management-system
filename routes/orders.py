@@ -141,5 +141,4 @@ def get_orders(
     return {
         "total_records": total_records,
         "current_page": page,
-        "data": orders
-    }
+        "data": orders }
