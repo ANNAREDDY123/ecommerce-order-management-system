@@ -42,5 +42,4 @@ def home():
 
     return {
         "message":
-        "E-Commerce Order Management System"
-    }
+        "E-Commerce Order Management System" }
